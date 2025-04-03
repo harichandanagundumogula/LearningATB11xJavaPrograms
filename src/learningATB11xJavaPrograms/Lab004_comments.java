@@ -5,13 +5,14 @@ public class Lab004_comments {
         System.out.println("comments");
         //comments this line is ignored
         // this is single line comment
-        /* these comments are
-        multiple line comments*/
-        /**
-         * comments
-         * multiple
-         * multiple comments
-         **/
+        // these comments are
+        /*multiple line comments
+        rwufhjwefjwe
+        edbwkjdhjew
+        edwebdhbwjk
+        ewdnwjkejd
+        ewdnjdnhjw
+         */
 
     }
 }
